@@ -1,0 +1,8 @@
+{
+  "currentAge": 42,
+  "kiwiBalance": 2000,
+  "kiwiContributionMonthly": 1000,
+  "kiwiContributionWeekly": 250,
+  "kiwiContributionFortnightly": 500,
+  "kiwiContributionAnnually": 12000
+}

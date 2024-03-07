@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\helper\\types",
+    "\\src\\helper\\util",
+    "\\src\\helper\\wrapper",
+    "\\src\\hooks",
+    "\\src\\pages",
+    "\\src\\test",
+    "\\src\\test\\steps"
+  ],
+  "SelectedNode": "\\config",
+  "PreviewInSolutionExplorer": false
+}
