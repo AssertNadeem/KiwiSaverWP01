@@ -10,6 +10,9 @@ By combining these two tools, we can create more reliable and maintainable tests
 ##Scenario
 Answer all the questions and give us the projection for growth
 
+Pre-requisites:
+1. Node JS
+
 ## About the Framework
 1.  Playwright
 2.  Typescript
@@ -31,6 +34,7 @@ Answer all the questions and give us the projection for growth
 ## Project structure
 
 - .github -> yml file to execute the tests in GitHub Actions
+- config -> All the project configurations available here
 - src -> Contains all the features,helpers, hooks, pages,tests & Typescript code
 - test-results -> Contains all the reports related to the test.
 
